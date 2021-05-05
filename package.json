@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iJun1215/TypeScript/issues"
   },
-  "homepage": "https://github.com/iJun1215/TypeScript#readme"
+  "homepage": "https://github.com/iJun1215/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
